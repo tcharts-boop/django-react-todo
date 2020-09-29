@@ -14,11 +14,11 @@ Here is what the application looks like:
 
 <p float="left">
     <p>REST API JSON Data (Django Backend):</p>
-    <img src="./assets/django_rest_api.jpg" width="250" />
+    <img src="./assets/django_rest_api.jpg" width="600" />
     <p>Todo Application (React Frontend):</p>
-    <img src="./assets/react_frontend.jpg" width="250" /> 
+    <img src="./assets/react_frontend.jpg" width="600" /> 
     <p>Demo of Functionality:</p>
-    <img src="./assets/demo.gif" width="250" />
+    <img src="./assets/demo.gif" width="600" />
 </p>
 
 ## Installation

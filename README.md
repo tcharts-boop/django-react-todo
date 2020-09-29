@@ -12,15 +12,14 @@ Since gaining a fundamental understanding of Django and being able to apply my u
 
 Here is what the application looks like:
 
-REST API JSON Data (Django Backend):
-![Image of Backend](./assets/django_rest_api.jpg)
-
-Todo Application (React Frontend):
-![Image of Backend](./assets/react_frontend.jpg)
-
-Demo of Functionality:
-![Gif of Funcitonality](./assets/demo.gif)
-
+<p float="left">
+    <p>REST API JSON Data (Django Backend):</p>
+    <img src="./assets/django_rest_api.jpg" width="250" />
+    <p>Todo Application (React Frontend):</p>
+    <img src="./assets/react_frontend.jpg" width="250" /> 
+    <p>Demo of Functionality:</p>
+    <img src="./assets/demo.gif" width="250" />
+</p>
 
 ## Installation
 
